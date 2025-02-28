@@ -1,0 +1,1 @@
+# Is_Yasaminda_Esit_Firsatlar
