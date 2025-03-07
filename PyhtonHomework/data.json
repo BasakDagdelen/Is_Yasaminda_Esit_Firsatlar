@@ -1,0 +1,925 @@
+{
+  "help": "https://acikveri.bizizmir.com/tr/api/3/action/help_show?name=datastore_search",
+  "success": true,
+  "result": [
+    {
+      "_id": 1,
+      "HAT_NO": 5,
+      "HAT_ADI": "NARLIDERE - ÜÇKUYULAR İSKELE",
+      "GUZERGAH_ACIKLAMA": "MİTHAT PAŞA CAD. - 9 EYLÜL HASTANESİ-F.ALTAY AKT.",
+      "ACIKLAMA": "EĞİTİM ÖĞRETİMİN UYGULANDIĞI HAFTA İÇİ GÜNLERİ NARLIDERE'DEN 15.45 SEFER BAŞLANGIÇ SAATİ PROF.DR. AZİZ SANCAR ORTAOKULU DURAĞI'NDAN BAŞLAR.",
+      "HAT_BASLANGIC": "NARLIDERE",
+      "HAT_BITIS": "ÜÇKUYULAR İSKELE"
+    },
+    {
+      "_id": 2,
+      "HAT_NO": 6,
+      "HAT_ADI": "ARIKENT - ÜÇKUYULAR İSK.",
+      "GUZERGAH_ACIKLAMA": "MİTHAT PAŞA CAD. - 9 EYLÜL HASTANESİ",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "ARIKENT",
+      "HAT_BITIS": "ÜÇKUYULAR İSKELE"
+    },
+    {
+      "_id": 3,
+      "HAT_NO": 7,
+      "HAT_ADI": "SAHİLEVLERİ - ÜÇKUYULAR İSK.",
+      "GUZERGAH_ACIKLAMA": "MİTHAT PAŞA CAD. - 9 EYLÜL HASTANESİ",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "SAHİLEVLERİ",
+      "HAT_BITIS": "ÜÇKUYULAR İSKELE"
+    },
+    {
+      "_id": 4,
+      "HAT_NO": 8,
+      "HAT_ADI": "GÜZELBAHÇE - F.ALTAY AKTARMA MERKEZİ",
+      "GUZERGAH_ACIKLAMA": "SEFERİHİSAR KAVŞAĞI-MİTHAT PAŞA CAD. - 9 EYLÜL HASTANESİ",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "GÜZELBAHÇE",
+      "HAT_BITIS": "F.ALTAY AKT."
+    },
+    {
+      "_id": 5,
+      "HAT_NO": 9,
+      "HAT_ADI": "ÖZZÜMRÜT EVLERİ - SİTELER",
+      "GUZERGAH_ACIKLAMA": "MİTHATPAŞA CAD.- ISTIKBAL CAD.",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "ÖZZÜMRÜT EVLERİ",
+      "HAT_BITIS": "SİTELER",
+      "id": "42ce"
+    },
+    {
+      "_id": 6,
+      "HAT_NO": 10,
+      "HAT_ADI": "ÜÇKUYULAR İSKELE - KONAK",
+      "GUZERGAH_ACIKLAMA": "MİTHATPAŞA CAD.-ASANSÖR-KARATAŞ",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "ÜÇKUYULAR İSKELE",
+      "HAT_BITIS": "KONAK"
+    },
+    {
+      "_id": 7,
+      "HAT_NO": 15,
+      "HAT_ADI": "İNÖNÜ - KONAK",
+      "GUZERGAH_ACIKLAMA": "ÇANKAYA MAH.-NOKTA-İNÖNÜ CAD.",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "İNÖNÜ MAH.",
+      "HAT_BITIS": "KONAK"
+    },
+    {
+      "_id": 8,
+      "HAT_NO": 16,
+      "HAT_ADI": "VATAN MAHALLESİ - ÜÇYOL",
+      "GUZERGAH_ACIKLAMA": "POLAT CAD.-YILDIZ CAD.-ORDU CAD.",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "VATAN MAH.",
+      "HAT_BITIS": "ÜÇYOL METRO"
+    },
+    {
+      "_id": 9,
+      "HAT_NO": 17,
+      "HAT_ADI": "UZUNDERE TOPLU KONUTLARI - F.ALTAY AKTARMA MERKEZİ",
+      "GUZERGAH_ACIKLAMA": "ÇEVRE YOLU-LİMONTEPE KAVŞAĞI",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "UZUNDERE TOPLU KONUTLARI",
+      "HAT_BITIS": "F.ALTAY AKT."
+    },
+    {
+      "_id": 10,
+      "HAT_NO": 18,
+      "HAT_ADI": "YEŞİLYURT - KONAK",
+      "GUZERGAH_ACIKLAMA": "ATATÜRK EĞT.ARŞ.HAST.-ORDU CAD.- VARYANT",
+      "ACIKLAMA": "HATTIMIZ RİNG HAT OLUP KONAKTAN SAAT UYGULAMASI YOKTUR",
+      "HAT_BASLANGIC": "YEŞİLYURT",
+      "HAT_BITIS": "KONAK"
+    },
+    {
+      "_id": 11,
+      "HAT_NO": 19,
+      "HAT_ADI": "ŞEHİTLER - KONAK",
+      "GUZERGAH_ACIKLAMA": "BASIN SİTESİ-ATATÜRK EĞT. ARŞ.HAST.- ÜÇYOL",
+      "ACIKLAMA": "HATTIMIZ RİNG HAT OLUP KONAKTAN SAAT UYGULAMASI YOKTUR",
+      "HAT_BASLANGIC": "ŞEHİTLER",
+      "HAT_BITIS": "KONAK"
+    },
+    {
+      "_id": 12,
+      "HAT_NO": 20,
+      "HAT_ADI": "KOOPERATİF EVLERİ - KONAK",
+      "GUZERGAH_ACIKLAMA": "SAİM ÇIKRIKÇI CAD.-BOZYAKA EĞT. ARŞ.HAST.-ÜÇYOL",
+      "ACIKLAMA": "HATTIMIZ RİNG HAT OLUP KONAKTAN SAAT UYGULAMASI YOKTUR",
+      "HAT_BASLANGIC": "KOOP. EVLERİ",
+      "HAT_BITIS": "KONAK"
+    },
+    {
+      "_id": 13,
+      "HAT_NO": 21,
+      "HAT_ADI": "HALİL RIFAT PAŞA - KONAK",
+      "GUZERGAH_ACIKLAMA": "ŞATO",
+      "ACIKLAMA": "HATTIMIZ RİNG HAT OLUP HALİL RIFAT PAŞA'DAN SAAT UYGULAMASI YOKTUR.",
+      "HAT_BASLANGIC": "HALİL RIFAT PAŞA",
+      "HAT_BITIS": "KONAK"
+    },
+    {
+      "_id": 14,
+      "HAT_NO": 23,
+      "HAT_ADI": "UZUNDERE - KONAK",
+      "GUZERGAH_ACIKLAMA": "ESKİİZMİR CAD.-EŞREFPAŞA-VARYANT",
+      "ACIKLAMA": "HATTIMIZ RİNG HAT OLUP KONAKTAN SAAT UYGULAMASI YOKTUR",
+      "HAT_BASLANGIC": "UZUNDERE",
+      "HAT_BITIS": "KONAK"
+    },
+    {
+      "_id": 15,
+      "HAT_NO": 24,
+      "HAT_ADI": "KAVACIK - ÜÇKUYULAR İSKELE",
+      "GUZERGAH_ACIKLAMA": "TIRAZLI-LİMONTEPE KAVŞAĞI-ÇEVRE YOLU",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "KAVACIK",
+      "HAT_BITIS": "ÜÇKUYULAR İSKELE"
+    },
+    {
+      "_id": 16,
+      "HAT_NO": 25,
+      "HAT_ADI": "OYUNLAR KÖYÜ - ÜÇKUYULAR İSKELE",
+      "GUZERGAH_ACIKLAMA": "ÇEVRE YOLU-LİMONTEPE KAVŞAĞI",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "OYUNLAR KÖYÜ",
+      "HAT_BITIS": "ÜÇKUYULAR İSKELE"
+    },
+    {
+      "_id": 17,
+      "HAT_NO": 27,
+      "HAT_ADI": "ÇAMLIK - KONAK",
+      "GUZERGAH_ACIKLAMA": "KARABAĞLAR-EŞREFPAŞA-VARYANT",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "ÇAMLIK",
+      "HAT_BITIS": "KONAK"
+    },
+    {
+      "_id": 18,
+      "HAT_NO": 28,
+      "HAT_ADI": "KAVACIK - GÜZELBAHÇE",
+      "GUZERGAH_ACIKLAMA": "PAYAMLI - KÜÇÜKKAYA KÖYÜ",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "KAVACIK",
+      "HAT_BITIS": "GÜZELBAHÇE"
+    },
+    {
+      "_id": 19,
+      "HAT_NO": 29,
+      "HAT_ADI": "KADRİYE MAH. - KONAK",
+      "GUZERGAH_ACIKLAMA": "EŞREFPAŞA-VARYANT",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "KADRİYE MAH.",
+      "HAT_BITIS": "KONAK"
+    },
+    {
+      "_id": 20,
+      "HAT_NO": 30,
+      "HAT_ADI": "KAYNAK - KONAK",
+      "GUZERGAH_ACIKLAMA": "HASAN ÖZDEMİR MAH.- EŞREFPAŞA -VARYANT",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "KAYNAK",
+      "HAT_BITIS": "KONAK"
+    },
+    {
+      "_id": 21,
+      "HAT_NO": 32,
+      "HAT_ADI": "ÇİMENTEPE SİTESİ - KONAK",
+      "GUZERGAH_ACIKLAMA": "EŞREFPAŞA-VARYANT",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "ÇİMENTEPE SİTESİ",
+      "HAT_BITIS": "KONAK"
+    },
+    {
+      "_id": 22,
+      "HAT_NO": 33,
+      "HAT_ADI": "KADİFEKALE - KONAK",
+      "GUZERGAH_ACIKLAMA": "EŞREFPAŞA-VARYANT",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "KADİFEKALE",
+      "HAT_BITIS": "KONAK"
+    },
+    {
+      "_id": 23,
+      "HAT_NO": 34,
+      "HAT_ADI": "ESENTEPE - GÜMRÜK",
+      "GUZERGAH_ACIKLAMA": "TOROS - Y.KEMER - BASMANE",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "ESENTEPE",
+      "HAT_BITIS": "GÜMRÜK"
+    },
+    {
+      "_id": 24,
+      "HAT_NO": 35,
+      "HAT_ADI": "BALLIKUYU - KONAK",
+      "GUZERGAH_ACIKLAMA": "KAPILAR - BASMANE",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "BALLIKUYU",
+      "HAT_BITIS": "KONAK"
+    },
+    {
+      "_id": 25,
+      "HAT_NO": 36,
+      "HAT_ADI": "ŞİRİNYER AKTARMA MERKEZİ - GÜMRÜK",
+      "GUZERGAH_ACIKLAMA": "YEŞİLDERE - KAPILAR - BASMANE",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "ŞİRİNYER AKT.",
+      "HAT_BITIS": "GÜMRÜK"
+    },
+    {
+      "_id": 26,
+      "HAT_NO": 39,
+      "HAT_ADI": "İSMETPAŞA MAH. - GÜMRÜK",
+      "GUZERGAH_ACIKLAMA": "ÇİMENLİ CAMİ - KEMER - BASMANE",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "İSMETPAŞA",
+      "HAT_BITIS": "GÜMRÜK"
+    },
+    {
+      "_id": 27,
+      "HAT_NO": 41,
+      "HAT_ADI": "LEVENT - GÜMRÜK",
+      "GUZERGAH_ACIKLAMA": "LEVENT - KEMER AKTARMA MERKEZİ - BASMANE",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "LEVENT",
+      "HAT_BITIS": "GÜMRÜK"
+    },
+    {
+      "_id": 28,
+      "HAT_NO": 42,
+      "HAT_ADI": "ÇINARTEPE - GÜMRÜK",
+      "GUZERGAH_ACIKLAMA": "LEVENT - KEMER - BASMANE",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "ÇINARTEPE",
+      "HAT_BITIS": "GÜMRÜK"
+    },
+    {
+      "_id": 29,
+      "HAT_NO": 44,
+      "HAT_ADI": "MERSİNPINAR - GÜMRÜK",
+      "GUZERGAH_ACIKLAMA": "BOĞAZİÇİ - YENİŞEHİR HASTANELER - BASMANE",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "MERSİNPINAR",
+      "HAT_BITIS": "GÜMRÜK"
+    },
+    {
+      "_id": 30,
+      "HAT_NO": 45,
+      "HAT_ADI": "GÜLTEPE - GÜMRÜK",
+      "GUZERGAH_ACIKLAMA": "BOĞAZİÇİ - YENİŞEHİR HASTANELER - BASMANE",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "GÜLTEPE",
+      "HAT_BITIS": "GÜMRÜK"
+    },
+    {
+      "_id": 31,
+      "HAT_NO": 46,
+      "HAT_ADI": "ÇOBANÇEŞME - GÜMRÜK",
+      "GUZERGAH_ACIKLAMA": "LEVENT - KEMER - BASMANE",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "ÇOBANÇEŞME",
+      "HAT_BITIS": "GÜMRÜK"
+    },
+    {
+      "_id": 32,
+      "HAT_NO": 52,
+      "HAT_ADI": "ÇINARTEPE MAHALLESİ - KEMER AKTARMA MERKEZİ",
+      "GUZERGAH_ACIKLAMA": "TOROS CAD. - LEVENT",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "ÇINARTEPE MAHALLESİ",
+      "HAT_BITIS": "KEMER AKTARMA MERKEZİ"
+    },
+    {
+      "_id": 33,
+      "HAT_NO": 53,
+      "HAT_ADI": "MTK ALTINDAĞ - HALKAPINAR METRO",
+      "GUZERGAH_ACIKLAMA": "ALTINDAĞ - KEMALPAŞA CAD. - 1. SANAYİ",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "ALTINDAĞ",
+      "HAT_BITIS": "HALKAPINAR METRO"
+    },
+    {
+      "_id": 34,
+      "HAT_NO": 54,
+      "HAT_ADI": "OTOGAR - KEMER AKTARMA MERKEZİ",
+      "GUZERGAH_ACIKLAMA": "YEŞİLOVA - MERSİNLİ - YENİŞEHİR HASTANELER",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "OTOGAR",
+      "HAT_BITIS": "KEMER AKT."
+    },
+    {
+      "_id": 35,
+      "HAT_NO": 56,
+      "HAT_ADI": "ÇOBANÇEŞME - KEMER AKTARMA MERKEZİ",
+      "GUZERGAH_ACIKLAMA": "GAZİPAŞA CAD. - LEVENT",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "GİDİŞ",
+      "HAT_BITIS": "DÖNÜŞ"
+    },
+    {
+      "_id": 36,
+      "HAT_NO": 57,
+      "HAT_ADI": "ALTINDAĞ - KEMER AKTARMA MERKEZİ",
+      "GUZERGAH_ACIKLAMA": "ALTINDAĞ - YENİŞEHİR HASTANELER",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "ALTINDAĞ",
+      "HAT_BITIS": "KEMER AKT."
+    },
+    {
+      "_id": 37,
+      "HAT_NO": 58,
+      "HAT_ADI": "KANDERE - KEMER AKTARMA MERKEZİ",
+      "GUZERGAH_ACIKLAMA": "YENİŞEHİR HASTANELER",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "KANDERE",
+      "HAT_BITIS": "KEMER AKT."
+    },
+    {
+      "_id": 38,
+      "HAT_NO": 59,
+      "HAT_ADI": "BORNOVA METRO - KEMER AKTARMA MERKEZİ",
+      "GUZERGAH_ACIKLAMA": "KARACAOĞLAN MAH. - KAMİL TUNCA - YENİŞEHİR HASTANELER",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "BORNOVA METRO",
+      "HAT_BITIS": "KEMER AKT."
+    },
+    {
+      "_id": 39,
+      "HAT_NO": 60,
+      "HAT_ADI": "PINARBAŞI - KEMER AKTARMA MERKEZİ",
+      "GUZERGAH_ACIKLAMA": "5. SANAYİ - KEMALPAŞA CAD. - YENİŞEHİR HASTANELER",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "PINARBAŞI",
+      "HAT_BITIS": "KEMER AKT."
+    },
+    {
+      "_id": 40,
+      "HAT_NO": 64,
+      "HAT_ADI": "AYAKKABICILAR SİT. - KEMER AKTARMA MERKEZİ",
+      "GUZERGAH_ACIKLAMA": "IŞIKKENT - KEMALPAŞA CAD. - YENİŞEHİR HASTANELER",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "AYAKKABICILAR SİTESİ",
+      "HAT_BITIS": "KEMER AKT."
+    },
+    {
+      "_id": 41,
+      "HAT_NO": 67,
+      "HAT_ADI": "PINARBAŞI - EVKA3 METRO",
+      "GUZERGAH_ACIKLAMA": "5. SANAYİ - PINAR CAD. - DOĞANLAR",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "PINARBAŞI",
+      "HAT_BITIS": "EVKA3 METRO"
+    },
+    {
+      "_id": 42,
+      "HAT_NO": 72,
+      "HAT_ADI": "İŞÇİEVLERİ - KONAK",
+      "GUZERGAH_ACIKLAMA": "ŞİRİNYER - EŞREFPAŞA - İKİÇEŞMELİK",
+      "ACIKLAMA": "HATTIMIZ RİNG HAT OLUP KONAKTAN SAAT UYGULAMASI YOKTUR",
+      "HAT_BASLANGIC": "İŞÇİEVLERİ",
+      "HAT_BITIS": "KONAK"
+    },
+    {
+      "_id": 43,
+      "HAT_NO": 74,
+      "HAT_ADI": "YENİGÜN MAH. - ŞİRİNYER AKTARMA MERKEZİ",
+      "GUZERGAH_ACIKLAMA": "İNKILAP İST.- KOŞU YOLU",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "YENİGÜN MAH.",
+      "HAT_BITIS": "ŞİRİNYER AKT."
+    },
+    {
+      "_id": 44,
+      "HAT_NO": 77,
+      "HAT_ADI": "NAFİZ GÜRMAN - HALKAPINAR METRO 2",
+      "GUZERGAH_ACIKLAMA": "GÜMÜŞPALA - EMEK MAH. - SALHANE YOLU",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "NAFİZ GÜRMAN",
+      "HAT_BITIS": "HALKAPINAR METRO 2"
+    },
+    {
+      "_id": 45,
+      "HAT_NO": 78,
+      "HAT_ADI": "YAMANLAR - HALKAPINAR METRO 2",
+      "GUZERGAH_ACIKLAMA": "SOĞUKKUYU - BAYRAKLI - SALHANE YOLU",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "YAMANLAR",
+      "HAT_BITIS": "HALKAPINAR METRO 2"
+    },
+    {
+      "_id": 46,
+      "HAT_NO": 82,
+      "HAT_ADI": "SİTELER - F.ALTAY AKTARMA MERKEZİ",
+      "GUZERGAH_ACIKLAMA": "MİTHATPAŞA CAD.-NARLIDERE-9 EYLÜL HASTANESİ",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "SİTELER",
+      "HAT_BITIS": "F.ALTAY AKT."
+    },
+    {
+      "_id": 47,
+      "HAT_NO": 84,
+      "HAT_ADI": "SALİH OMURTAK - ÜÇYOL METRO",
+      "GUZERGAH_ACIKLAMA": "SAİM ÇIKRIKÇI CAD.-BOZYAKA EĞT.ARŞ.HAST.",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "SALİH OMURTAK",
+      "HAT_BITIS": "ÜÇYOL METRO"
+    },
+    {
+      "_id": 48,
+      "HAT_NO": 89,
+      "HAT_ADI": "CENNETOĞLU - ÜÇYOL METRO",
+      "GUZERGAH_ACIKLAMA": "ZİNCİRLİKUYU-BOZYAKA EĞT.ARŞ.HAST.",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "CENNETOĞLU",
+      "HAT_BITIS": "ÜÇYOL METRO"
+    },
+    {
+      "_id": 49,
+      "HAT_NO": 92,
+      "HAT_ADI": "FUAR İZMİR - ÜÇYOL METRO",
+      "GUZERGAH_ACIKLAMA": "AKTEPE MAH. - KARABAĞLAR - HALİDE EDİP ADIVAR CAD.",
+      "ACIKLAMA": "Üçyol'dan 07:25 servisi Yeni Fuar Alanı havuz önüne çıkar. Akşam 17:05 servisi Yeni Fuar Alanı havuz önünden başlar.",
+      "HAT_BASLANGIC": "FUAR İZMİR",
+      "HAT_BITIS": "ÜÇYOL METRO"
+    },
+    {
+      "_id": 50,
+      "HAT_NO": 102,
+      "HAT_ADI": "ALPASLAN MAH. - HALKAPINAR METRO",
+      "GUZERGAH_ACIKLAMA": "MANAS BULV - ADLİYE",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "ALPARSLAN MAH.",
+      "HAT_BITIS": "HALKAPINAR METRO"
+    },
+    {
+      "_id": 51,
+      "HAT_NO": 104,
+      "HAT_ADI": "BUCA TOPLU KONUTLARI - KONAK",
+      "GUZERGAH_ACIKLAMA": "DOKUZ ÇEŞMELER - ŞİRİNYER - İKİÇEŞMELİK",
+      "ACIKLAMA": "HATTIMIZ RİNG HAT OLUP KONAKTAN SAAT UYGULAMASI YOKTUR.",
+      "HAT_BASLANGIC": "BUCA TOPLU KONUTLARI",
+      "HAT_BITIS": "KONAK"
+    },
+    {
+      "_id": 52,
+      "HAT_NO": 105,
+      "HAT_ADI": "ÇAMLIKULE - KONAK",
+      "GUZERGAH_ACIKLAMA": "AKINCILAR MAH. - EŞREFPAŞA - İKİÇEŞMELİK",
+      "ACIKLAMA": "HATTIMIZ RİNG HAT OLUP KONAKTAN SAAT UYGULAMASI YOKTUR",
+      "HAT_BASLANGIC": "ÇAMLIKULE",
+      "HAT_BITIS": "KONAK"
+    },
+    {
+      "_id": 53,
+      "HAT_NO": 108,
+      "HAT_ADI": "ESERKENT - ÜÇYOL METRO",
+      "GUZERGAH_ACIKLAMA": "UĞUR MUMCU-YEŞİLKAYA",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "ESERKENT",
+      "HAT_BITIS": "ÜÇYOL METRO"
+    },
+    {
+      "_id": 54,
+      "HAT_NO": 111,
+      "HAT_ADI": "NALDÖKEN - EVKA3 METRO",
+      "GUZERGAH_ACIKLAMA": "TÜRKAN ÖZİLHAN DEV.HAST. - 4.SANAYİ",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "NALDÖKEN",
+      "HAT_BITIS": "EVKA3 METRO"
+    },
+    {
+      "_id": 55,
+      "HAT_NO": 114,
+      "HAT_ADI": "EVKA 3 - EVKA3 METRO",
+      "GUZERGAH_ACIKLAMA": "PROFESORLER SİT. - CENGİZHAN CAD.",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "EVKA 3",
+      "HAT_BITIS": "EVKA3 METRO"
+    },
+    {
+      "_id": 56,
+      "HAT_NO": 117,
+      "HAT_ADI": "KAVAKLIDERE - KEMER AKTARMA MERKEZİ",
+      "GUZERGAH_ACIKLAMA": "5.SANAYİ SİTESİ- ALTINDAĞ - YENİŞEHİR HASTANELER",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "KAVAKLIDERE",
+      "HAT_BITIS": "KEMER AKT."
+    },
+    {
+      "_id": 57,
+      "HAT_NO": 119,
+      "HAT_ADI": "ALTINDAĞ - BORNOVA METRO",
+      "GUZERGAH_ACIKLAMA": "YEŞİLOVA - MERSİNLİ - E.Ü. HASTANESİ",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "ALTINDAĞ",
+      "HAT_BITIS": "BORNOVA METRO"
+    },
+    {
+      "_id": 58,
+      "HAT_NO": 121,
+      "HAT_ADI": "MAVİŞEHİR AKTARMA MERKEZİ - KONAK",
+      "GUZERGAH_ACIKLAMA": "KARŞIYAKA - ALTINYOL - TALATPAŞA",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "MAVİŞEHİR AKTARMA MERKEZİ",
+      "HAT_BITIS": "KONAK"
+    },
+    {
+      "_id": 59,
+      "HAT_NO": 123,
+      "HAT_ADI": "ŞİRİNEVLER - ÇİĞLİ AKTARMA MERKEZİ",
+      "GUZERGAH_ACIKLAMA": "EGEKENT DEVLET HASTANESİ",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "ŞİRİNEVLER",
+      "HAT_BITIS": "ÇİĞLİ AKT."
+    },
+    {
+      "_id": 60,
+      "HAT_NO": 124,
+      "HAT_ADI": "ALİ FUAT ERDEN - ÜÇYOL METRO",
+      "GUZERGAH_ACIKLAMA": "ESKİİZMİR CAD.-SAİM ÇIKRIKÇI CAD.-BOZYAKA EĞT.ARŞ.HAST.",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "ALİ FUAT ERDEN",
+      "HAT_BITIS": "ÜÇYOL METRO"
+    },
+    {
+      "_id": 61,
+      "HAT_NO": 125,
+      "HAT_ADI": "MUSTAFA KEMAL MAH - HALKAPINAR METRO2",
+      "GUZERGAH_ACIKLAMA": "ESİN SİT.  - CUMHURİYET MAH. - SALHANE YOLU",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "MUSTAFA KEMAL MAH.",
+      "HAT_BITIS": "HALKAPINAR METRO 2"
+    },
+    {
+      "_id": 62,
+      "HAT_NO": 126,
+      "HAT_ADI": "CUMHURİYET MAH. - KARŞIYAKA",
+      "GUZERGAH_ACIKLAMA": "SERİNKUYU - GİRNE",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "CUMHURİYET MAH.",
+      "HAT_BITIS": "KARŞIYAKA İSKELE"
+    },
+    {
+      "_id": 63,
+      "HAT_NO": 128,
+      "HAT_ADI": "EGEKENT 2 - EGEKENT AKTARMA ",
+      "GUZERGAH_ACIKLAMA": "30 AĞUSTOS MAH. - ÇANAKKALE ASFALTI",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "EGEKENT 2",
+      "HAT_BITIS": "EGEKENT AKTARMA"
+    },
+    {
+      "_id": 64,
+      "HAT_NO": 135,
+      "HAT_ADI": "DOĞANÇAY - KARŞIYAKA",
+      "GUZERGAH_ACIKLAMA": "KUBİLAY CAD. - SOĞUKKUYU - GİRNE",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "DOĞANÇAY",
+      "HAT_BITIS": "KARŞIYAKA İSKELE"
+    },
+    {
+      "_id": 65,
+      "HAT_NO": 136,
+      "HAT_ADI": "ÖRNEKKÖY - KARŞIYAKA",
+      "GUZERGAH_ACIKLAMA": "ZÜBEYDE HANIM MAH. - DEDEBAŞI - GİRNE",
+      "ACIKLAMA": "06:00-13:00 SAATLERİ ARASI K.YAKADAN, 13:00-17:30 SAATLERİ ARASI ÖRNEKKÖYDEN YAPILAN SERVİSLERDE MEZARLIGA UĞRAMAKTADIR.",
+      "HAT_BASLANGIC": "ÖRNEKKÖY",
+      "HAT_BITIS": "KARŞIYAKA İSKELE"
+    },
+    {
+      "_id": 66,
+      "HAT_NO": 137,
+      "HAT_ADI": "YAMANLAR - KARŞIYAKA",
+      "GUZERGAH_ACIKLAMA": "SOĞUKKUYU-GİRNE",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "YAMANLAR",
+      "HAT_BITIS": "KARŞIYAKA İSKELE"
+    },
+    {
+      "_id": 67,
+      "HAT_NO": 140,
+      "HAT_ADI": "ÖRNEKKÖY - HALKAPINAR METRO2",
+      "GUZERGAH_ACIKLAMA": "DEDEBAŞI - BAYRAKLI - SALHANE YOLU",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "ÖRNEKKÖY",
+      "HAT_BITIS": "HALKAPINAR METRO 2"
+    },
+    {
+      "_id": 68,
+      "HAT_NO": 147,
+      "HAT_ADI": "POSTACI - HALKAPINAR METRO2",
+      "GUZERGAH_ACIKLAMA": "YENİ GİRNE - BAYRAKLI - SALHANE YOLU",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "POSTACI",
+      "HAT_BITIS": "HALKAPINAR METRO 2"
+    },
+    {
+      "_id": 69,
+      "HAT_NO": 148,
+      "HAT_ADI": "ONUR MAH. - HALKAPINAR METRO2",
+      "GUZERGAH_ACIKLAMA": "YENİ GİRNE - BAYRAKLI - SALHANE YOLU",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "ONUR MAH.",
+      "HAT_BITIS": "HALKAPINAR METRO 2"
+    },
+    {
+      "_id": 70,
+      "HAT_NO": 149,
+      "HAT_ADI": "KAKLIÇ - ÇİĞLİ AKTARMA MERKEZİ",
+      "GUZERGAH_ACIKLAMA": "ESKİ HAVAALANI CADDESİ",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "KAKLIÇ",
+      "HAT_BITIS": "ÇİĞLİ AKT."
+    },
+    {
+      "_id": 71,
+      "HAT_NO": 152,
+      "HAT_ADI": "GAZİEMİR - KONAK",
+      "GUZERGAH_ACIKLAMA": "KARABAĞLAR- ÜÇYOL -VARYANT",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "GAZİEMİR",
+      "HAT_BITIS": "KONAK"
+    },
+    {
+      "_id": 72,
+      "HAT_NO": 153,
+      "HAT_ADI": "ÇAMKULE - KEMER AKTARMA MERKEZİ",
+      "GUZERGAH_ACIKLAMA": "MANİFATURACILAR SİT. - YENİŞEHİR HASTANELER",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "ÇAMKULE",
+      "HAT_BITIS": "KEMER AKT."
+    },
+    {
+      "_id": 73,
+      "HAT_NO": 154,
+      "HAT_ADI": "ALTINDAĞ - HALKAPINAR METRO",
+      "GUZERGAH_ACIKLAMA": "MANİFATURACILAR SİT. - GAZİLER CAD. - 1. SANAYİ SİT.",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "ALTINDAĞ",
+      "HAT_BITIS": "HALKAPINAR METRO"
+    },
+    {
+      "_id": 74,
+      "HAT_NO": 156,
+      "HAT_ADI": "SAĞLIK OCAĞI - ÜÇYOL METRO",
+      "GUZERGAH_ACIKLAMA": "KARABAĞLAR - HALİDE EDİP ADIVAR BULV.",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "SAĞLIK OCAĞI",
+      "HAT_BITIS": "ÜÇYOL METRO"
+    },
+    {
+      "_id": 75,
+      "HAT_NO": 157,
+      "HAT_ADI": "AKTEPE MAHALLESİ - KONAK",
+      "GUZERGAH_ACIKLAMA": "PEKER MAHALLESİ - KARABAĞLAR -  VARYANT",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "AKTEPE MAH.",
+      "HAT_BITIS": "KONAK"
+    },
+    {
+      "_id": 76,
+      "HAT_NO": 167,
+      "HAT_ADI": "BALÇOVA KABRİSTAN - F.ALTAY AKTARMA MERKEZİ",
+      "GUZERGAH_ACIKLAMA": "ATA CAD.-MİTHATPAŞA CAD.",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "BALÇOVA KABRİSTAN",
+      "HAT_BITIS": "F.ALTAY AKT."
+    },
+    {
+      "_id": 77,
+      "HAT_NO": 168,
+      "HAT_ADI": "EVKA 4 - HALKAPINAR METRO",
+      "GUZERGAH_ACIKLAMA": "ATATÜRK MAH. - OSMANGAZİ MAH.- ANKARA ASFALTI",
+      "ACIKLAMA": "HAFTA İÇİ GÜNLERİ 07.20-07.45-07.55-08.05-08.15 SERVİSLERİ İSMET SEZGİN ORTAOKULUNDAN BAŞLAR.",
+      "HAT_BASLANGIC": "EVKA-4",
+      "HAT_BITIS": "HALKAPINAR METRO"
+    },
+    {
+      "_id": 78,
+      "HAT_NO": 171,
+      "HAT_ADI": "TINAZTEPE - KONAK",
+      "GUZERGAH_ACIKLAMA": "BUCA KOOP. - AKINCILAR MAH. - EŞREFPAŞA",
+      "ACIKLAMA": "HATTIMIZ RİNG HAT OLUP KONAKTAN SAAT UYGULAMASI YOKTUR",
+      "HAT_BASLANGIC": "TINAZTEPE",
+      "HAT_BITIS": "KONAK"
+    },
+    {
+      "_id": 79,
+      "HAT_NO": 176,
+      "HAT_ADI": "DEMİRCİKÖY - ADATEPE",
+      "GUZERGAH_ACIKLAMA": "KARACAAĞAÇ - KIRKLAR - BELENBAŞI",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "DEMİRCİKÖY",
+      "HAT_BITIS": "ADATEPE"
+    },
+    {
+      "_id": 80,
+      "HAT_NO": 177,
+      "HAT_ADI": "KAYNAKLAR - ADATEPE",
+      "GUZERGAH_ACIKLAMA": "SEBZE HALİ - Y. MEZARLIK",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "KAYNAKLAR",
+      "HAT_BITIS": "ADATEPE"
+    },
+    {
+      "_id": 81,
+      "HAT_NO": 193,
+      "HAT_ADI": "YURTOĞLU - KONAK",
+      "GUZERGAH_ACIKLAMA": "CENNETÇEŞME - BOZYAKA - EŞREFPAŞA",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "YURTOĞLU",
+      "HAT_BITIS": "KONAK"
+    },
+    {
+      "_id": 82,
+      "HAT_NO": 196,
+      "HAT_ADI": "NAFİZ GÜRMAN - KARŞIYAKA İSKELE",
+      "GUZERGAH_ACIKLAMA": "GÜMÜŞPALA - NALDÖKEN -TERSHANE",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "NAFİZ GÜRMAN",
+      "HAT_BITIS": "KARŞIYAKA İSKELE"
+    },
+    {
+      "_id": 83,
+      "HAT_NO": 197,
+      "HAT_ADI": "NAFİZ GÜRMAN - KARŞIYAKA",
+      "GUZERGAH_ACIKLAMA": "GÜMÜŞPALA - GİRNE",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "NAFİZ GÜRMAN",
+      "HAT_BITIS": "KARŞIYAKA İSKELE"
+    },
+    {
+      "_id": 84,
+      "HAT_NO": 200,
+      "HAT_ADI": "MAVİŞEHİR AKTARMA MERKEZİ - HAVALİMANI",
+      "GUZERGAH_ACIKLAMA": "KARŞIYAKA - YEŞİLDERE - GAZİEMİR",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "MAVİŞEHİR AKT.",
+      "HAT_BITIS": "HAVALİMANI"
+    },
+    {
+      "_id": 85,
+      "HAT_NO": 202,
+      "HAT_ADI": "CUMHURİYET MEYDANI - HAVALİMANI",
+      "GUZERGAH_ACIKLAMA": "MUSTAFA KEMAL SAHİL BULV.-F. ALTAY-ÇEVRE YOLU",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "CUMHURİYET MEYDANI",
+      "HAT_BITIS": "HAVALİMANI"
+    },
+    {
+      "_id": 86,
+      "HAT_NO": 204,
+      "HAT_ADI": "BORNOVA METRO - HAVALİMANI",
+      "GUZERGAH_ACIKLAMA": "OTOGAR-ÇEVRE YOLU-AKÇAY CAD.",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "BORNOVA METRO",
+      "HAT_BITIS": "HAVALİMANI"
+    },
+    {
+      "_id": 87,
+      "HAT_NO": 206,
+      "HAT_ADI": "ŞİRİNYER AKTARMA MERKEZİ - HAVALİMANI",
+      "GUZERGAH_ACIKLAMA": "",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "ŞİRINYER AKTARMA MERKEZİ",
+      "HAT_BITIS": "HAVALİMANI"
+    },
+    {
+      "_id": 88,
+      "HAT_NO": 207,
+      "HAT_ADI": "BAYRAKLI KYK KIZ YURDU - KATİP ÇELEBI ÜNIVERSITESI",
+      "GUZERGAH_ACIKLAMA": "İZMİR ÇEVREYOLU",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "BAYRAKLI KYK KIZ YURDU",
+      "HAT_BITIS": "KATİP ÇELEBI ÜNIVERSITESI"
+    },
+    {
+      "_id": 89,
+      "HAT_NO": 208,
+      "HAT_ADI": "BORNOVA METRO - EGE ÜNİVERSITESI SAĞLIK BILIMLERI FAKÜLTESI",
+      "GUZERGAH_ACIKLAMA": "İzmir Çevre Yolu - Girne Bulvarı - Anadolu Caddesi",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "BORNOVA METRO",
+      "HAT_BITIS": "EGE ÜNİVERSITESI SAĞLIK BILIMLERI FAKÜLTESI"
+    },
+    {
+      "_id": 90,
+      "HAT_NO": 212,
+      "HAT_ADI": "BOSTANLI İSKELE - BORNOVA METRO",
+      "GUZERGAH_ACIKLAMA": "Karşıyaka İskele - Anadolu Caddesi - İzmir Çevre Yolu",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "BOSTANLI İSKELE",
+      "HAT_BITIS": "BORNOVA METRO"
+    },
+    {
+      "_id": 91,
+      "HAT_NO": 213,
+      "HAT_ADI": "BOSTANLI İSKELE - TINAZTEPE",
+      "GUZERGAH_ACIKLAMA": "Karşıyaka İskele - Anadolu Caddesi - İzmir Çevre Yolu",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "BOSTANLI İSKELE",
+      "HAT_BITIS": "TINAZTEPE"
+    },
+    {
+      "_id": 92,
+      "HAT_NO": 214,
+      "HAT_ADI": "EVKA3 METRO - KEMER",
+      "GUZERGAH_ACIKLAMA": "BORNOVA MERKEZ - MERSİNLİ - YENŞEHİR HASTANELER",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "EVKA3 METRO",
+      "HAT_BITIS": "KEMER AKT."
+    },
+    {
+      "_id": 93,
+      "HAT_NO": 221,
+      "HAT_ADI": "ŞEMİKLER - BOSTANLI İSKELE",
+      "GUZERGAH_ACIKLAMA": "BESTEKAR YUSUF NALKESEN SK.-ŞEHİTLER BULV.-BOSTANLI MAH.",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "ŞEMİKLER",
+      "HAT_BITIS": "BOSTANLI İSKELE"
+    },
+    {
+      "_id": 94,
+      "HAT_NO": 222,
+      "HAT_ADI": "ŞEMİKLER - KARŞIYAKA İSKELE",
+      "GUZERGAH_ACIKLAMA": "ANADOLU CAD. - GİRNE",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "ŞEMİKLER",
+      "HAT_BITIS": "KARŞIYAKA ISKELE"
+    },
+    {
+      "_id": 95,
+      "HAT_NO": 224,
+      "HAT_ADI": "CENNETÇEŞME - KONAK",
+      "GUZERGAH_ACIKLAMA": "ESKIIZMIR CAD. - BOZYAKA - EŞREFPAŞA",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "CENNETÇEŞME",
+      "HAT_BITIS": "KONAK"
+    },
+    {
+      "_id": 96,
+      "HAT_NO": 229,
+      "HAT_ADI": "YAKAKENT MAHALLESİ - BOSTANLI İSKELE",
+      "GUZERGAH_ACIKLAMA": "ÇİĞLİ - ATAKENT",
+      "ACIKLAMA": "Olumsuz Hava Koşulları'nda Çamlıkent Meydan, Çamlıkent Çıkış ve Çamlıkent duraklarına hizmet verilemeyecektir.",
+      "HAT_BASLANGIC": "YAKAKENT MAHALLESİ",
+      "HAT_BITIS": "BOSTANLI İSKELE"
+    },
+    {
+      "_id": 97,
+      "HAT_NO": 233,
+      "HAT_ADI": "ESBAŞ AKTARMA MERKEZİ - KONAK",
+      "GUZERGAH_ACIKLAMA": "BEYAZEVLER - AKINCILAR - EŞREFPAŞA",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "ESBAŞ AKT",
+      "HAT_BITIS": "KONAK"
+    },
+    {
+      "_id": 98,
+      "HAT_NO": 236,
+      "HAT_ADI": "ŞİRİNYER AKTARMA MERKEZİ - GÜMRÜK",
+      "GUZERGAH_ACIKLAMA": "YEŞİLDERE YAN YOL - KAPILAR - BASMANE",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "ŞİRİNYER AKTARMA MERKEZİ",
+      "HAT_BITIS": "GÜMRÜK"
+    },
+    {
+      "_id": 99,
+      "HAT_NO": 240,
+      "HAT_ADI": "ZÜBEYDE HANIM MAH. - HALKAPINAR METRO2",
+      "GUZERGAH_ACIKLAMA": "YENİ GİRNE - ALTINYOL",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "ZÜBEYDE HANIM MAH.",
+      "HAT_BITIS": "HALKAPINAR METRO 2"
+    },
+    {
+      "_id": 100,
+      "HAT_NO": 247,
+      "HAT_ADI": "EVKA 6 - ÇİĞLİ AKTARMA MERKEZİ",
+      "GUZERGAH_ACIKLAMA": "AYDINLIK EVLER MAH.",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "EVKA-6",
+      "HAT_BITIS": "ÇİĞLİ AKT."
+    },
+    {
+      "_id": 101,
+      "HAT_NO": 996,
+      "HAT_ADI": "KONAK - URLA",
+      "GUZERGAH_ACIKLAMA": "KONAK İSKELE - URLA",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "KONAK İSKELE",
+      "HAT_BITIS": "URLA"
+    },
+    {
+      "_id": 102,
+      "HAT_NO": 996,
+      "HAT_ADI": "KONAK - FOÇA",
+      "GUZERGAH_ACIKLAMA": "KONAK İSKELE -ESKİ FOÇA",
+      "ACIKLAMA": "",
+      "HAT_BASLANGIC": "KONAK İSKELE",
+      "HAT_BITIS": "FOÇA"
+    }
+  ]
+}
