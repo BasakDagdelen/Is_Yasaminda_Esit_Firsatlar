@@ -1,0 +1,7 @@
+# data klasöründeki tüm dosyaları yok say
+data/
+
+# Alternatif olarak sadece belirli uzantıları yok say
+data/*.csv
+data/*.json
+data/*.xlsx
